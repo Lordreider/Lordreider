@@ -8,8 +8,8 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Lordreider?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Lordreider)
 [![GitHub User's stars](https://img.shields.io/github/stars/Lordreider?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Lordreider)
-[![Website](https://img.shields.io/badge/KMS_Digital-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://kmsdigitalsolutions.de)
-[![Website](https://img.shields.io/badge/Averge-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white)](https://averge.eu)
+[![Website](https://img.shields.io/badge/KMS_Digital_Solutions-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://kmsdigitalsolutions.de)
+[![Website](https://img.shields.io/badge/Averge_EU-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white)](https://averge.eu)
 
 </div>
 
@@ -121,7 +121,7 @@ const lordreider = {
 ### 💼 Business Solutions
 - **KMS Digital Solutions** - Comprehensive digital services
 - **Averge.eu** - Verein zur Bekämpfung rechtswidriger Inhalte im Internet
-- **Lordreider Systems** - Technology and development
+- **Lordreider Systems** - Technology consulting and development
 
 ---
 
@@ -148,7 +148,7 @@ PHP             ████████████████      80%
 HTML/CSS        ███████████████       75%
 Discord Bots    ███████████████       75%
 JavaScript      ████████              40%  (Learning)
-Python          █                     5%
+Web Development ██████████████        70%
 ```
 
 ---
@@ -157,8 +157,8 @@ Python          █                     5%
 
 <div align="center">
 
-[![KMS Digital Solutions](https://img.shields.io/badge/KMS_Digital-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://kmsdigitalsolutions.de)
-[![Averge](https://img.shields.io/badge/Averge-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white)](https://averge.eu)
+[![KMS Digital Solutions](https://img.shields.io/badge/KMS_Digital_Solutions-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://kmsdigitalsolutions.de)
+[![Averge](https://img.shields.io/badge/Averge_EU-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white)](https://averge.eu)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lordreider)
 
 </div>
