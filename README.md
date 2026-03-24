@@ -8,7 +8,6 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/Lordreider?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Lordreider)
 [![GitHub User's stars](https://img.shields.io/github/stars/Lordreider?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Lordreider)
-[![Website](https://img.shields.io/badge/KMS_Digital_Solutions-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://kmsdigitalsolutions.de)
 [![Website](https://img.shields.io/badge/Averge_EU-4ECDC4?style=for-the-badge&logo=firefox&logoColor=white)](https://averge.eu)
 
 </div>
