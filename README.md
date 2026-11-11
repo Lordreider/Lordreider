@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:00D8FF&height=220&section=header&text=Lordreider&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Discord%20Bot%20%26%20Web%20Developer&descSize=22&descAlignY=60&animation=fadeIn" alt="Header" width="100%"/>
 
 <a href="https://github.com/Lordreider">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=640&lines=Hi%2C+ich+bin+Lordreider+%F0%9F%91%8B;Discord+Bot+Developer+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Gr%C3%BCnder+von+Lordreider+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=640&lines=Hi%2C+ich+bin+Lordreider+%F0%9F%91%8B;Discord+Bot+Developer+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Gr%C3%BCnder+von+Lordreider+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -129,27 +129,7 @@ Funktionsreiche Bots mit Fokus auf **Server-Automatisierung** und gute **User Ex
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lordreider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordreider&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lordreider&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-## 🏆 Auszeichnungen
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lordreider&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-## 📈 Aktivität
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lordreider&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+<img src="https://streak-stats.demolab.com/?user=Lordreider&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 
 </div>
 
