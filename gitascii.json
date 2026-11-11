@@ -1,0 +1,122 @@
+{
+  "username": "Lordreider",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1794397554310_0"
+    },
+    {
+      "instanceId": "widget_626ed80c-5aaf-491c-bbac-98561e808012",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 12,
+        "y": 382
+      },
+      "size": {
+        "width": 776,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_6961c251-8831-4156-9197-a958571f4d78",
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 98
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "html",
+          "css",
+          "ts",
+          "docker",
+          "py",
+          "sass",
+          "bash",
+          "php",
+          "java",
+          "cs",
+          "cpp",
+          "lua",
+          "vue",
+          "kotlin",
+          "github",
+          "nodejs",
+          "laravel",
+          "astro",
+          "jquery",
+          "git",
+          "vscode"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_d810b6e9-ac85-48a3-9f64-908e96875ba1",
+      "widgetId": "ghstats",
+      "name": "Ghstats Widget",
+      "position": {
+        "x": 205,
+        "y": 646
+      },
+      "size": {
+        "width": 390,
+        "height": 350
+      },
+      "config": {
+        "showTitle": true,
+        "embedType": "card"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "transparent",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1794398161528_g9w0t",
+    "updatedAt": "2026-11-11T11:56:04.367Z"
+  }
+}
