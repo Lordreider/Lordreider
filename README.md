@@ -18,24 +18,22 @@
 
 ```javascript
 const lordreider = {
-    location: "Bonn, Germany 🇩🇪",
+    location: "Germany 🇩🇪",
     company: "Lordreider Systems",
     timezone: "UTC +02:00",
     interests: ["Discord Bots", "Web Development", "Portfolio Websites"],
     currentlyLearning: "JavaScript",
     websites: [
-        "https://kmsdigitalsolutions.de",
         "https://averge.eu"
     ],
-    funFact: "I help automate Discord servers and build awesome portfolios! 🤖"
+    funFact: "I help automate Discord servers and build awesome websites"
 };
 ```
 
 - 👋 Hi, I'm **@Lordreider**
 - 👀 I'm interested in **Discord Bots**
-- 🌱 I'm currently learning **JavaScript**
-- 🏢 Working at **Lordreider Systems** in Bonn
-- 💼 Building digital solutions through **KMS Digital Solutions**
+- 🌱 I'm currently write projects in **JavaScript**
+- 🏢 Working at **Lordreider Systems**
 - 🌐 Check out my projects at **Averge.eu**
 - 🤝 Looking to collaborate on Discord Bot and Web Development projects
 
@@ -51,15 +49,10 @@ const lordreider = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-
-</div>
-
-### Currently Learning
-<div align="center">
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
+
 
 ### Frameworks & Libraries
 <div align="center">
@@ -98,19 +91,7 @@ const lordreider = {
 
 ## 🎯 Current Projects & Repositories
 
-### 🌟 Featured Projects
-
-#### 📁 [awesome-portfolio-websites](https://github.com/Lordreider/awesome-portfolio-websites)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-> A community maintained open source project for creating personal portfolios for researchers, developers, and analysts. Making portfolio creation simple, fast, and less cumbersome.
-
-#### 🎓 [swot](https://github.com/Lordreider/swot) 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-> Identify email addresses or domains that belong to colleges or universities. Helps automate the process of approving or rejecting academic discounts.
-
-#### 🚀 [portfolio-website](https://github.com/Lordreider/portfolio-website)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-> Modern portfolio website built with Astro for fast performance and great user experience.
+- Check out my GitHub repos!
 
 ### 🤖 Discord Bot Development
 - Building feature-rich Discord bots with advanced functionality
@@ -174,12 +155,6 @@ Web Development ██████████████        70%
 - 🏢 Building businesses through **KMS Digital Solutions** and **Averge.eu**
 - 🤝 Always excited to collaborate on Discord bots and web development projects
 
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
