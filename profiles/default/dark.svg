@@ -462,6 +462,7 @@
 <rect class="c-widget_626ed80c-5aaf-491c-bbac-98561e808012" style="animation-delay:0.936s" x="743.3636363636365" y="50" width="10.636363636363637" height="10.636363636363637" rx="2.5" fill="#161b22"><title>2026-11-22: 0 contributions</title></rect>
 <rect class="c-widget_626ed80c-5aaf-491c-bbac-98561e808012" style="animation-delay:0.981s" x="743.3636363636365" y="63.29545454545455" width="10.636363636363637" height="10.636363636363637" rx="2.5" fill="#161b22"><title>2026-11-23: 0 contributions</title></rect>
 <rect class="c-widget_626ed80c-5aaf-491c-bbac-98561e808012" style="animation-delay:1.026s" x="743.3636363636365" y="76.5909090909091" width="10.636363636363637" height="10.636363636363637" rx="2.5" fill="#161b22"><title>2026-11-24: 0 contributions</title></rect>
+<rect class="c-widget_626ed80c-5aaf-491c-bbac-98561e808012" style="animation-delay:1.071s" x="743.3636363636365" y="89.88636363636364" width="10.636363636363637" height="10.636363636363637" rx="2.5" fill="#161b22"><title>2026-11-25: 0 contributions</title></rect>
 <text x="636.8863636363636" y="157.6" fill="#7d8590" font-size="10" text-anchor="end">Less</text>
 <rect x="642.8863636363636" y="149.0681818181818" width="10.636363636363637" height="10.636363636363637" rx="2.2" fill="#161b22"/>
 <rect x="656.1818181818181" y="149.0681818181818" width="10.636363636363637" height="10.636363636363637" rx="2.2" fill="#0e4429"/>
@@ -472,7 +473,7 @@
 <text x="754" y="157.6" fill="#7d8590" font-size="10" text-anchor="end">More</text>
 <line x1="0" y1="173.70454545454544" x2="776" y2="173.70454545454544" stroke="#252525" stroke-opacity="0.25"/>
 <text x="22" y="197.70454545454544" font-size="13" fill="#39d353"><tspan font-weight="700">509</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
-<text x="754" y="197.70454545454544" font-size="12" fill="#7d8590" text-anchor="end">Nov 23, 2025 &#8594; Nov 24, 2026</text>
+<text x="754" y="197.70454545454544" font-size="12" fill="#7d8590" text-anchor="end">Nov 23, 2025 &#8594; Nov 25, 2026</text>
 <text x="22" y="221.70454545454544" font-size="13" fill="#7d8590">current streak <tspan fill="#ffa657" font-weight="700">1 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ffa657" font-weight="700">4 days</tspan></text>
 <text x="754" y="221.70454545454544" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">43</tspan> on Jun 6, 2026</text>
 </svg>
